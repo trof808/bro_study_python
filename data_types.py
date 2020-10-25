@@ -14,8 +14,10 @@ print(age)
 
 #Списки (lists)
 love_games = ['fortnite', 'csgo', 'minecraft']
-numbers = [1, 2, 3, 4, 5, 6, 7]
+print(love_games[0])
 print(love_games)
+
+numbers = [1, 2, 3, 4, 5, 6, 7]
 print(numbers)
 
 #Логические (boolean)
