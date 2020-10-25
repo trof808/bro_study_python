@@ -85,8 +85,9 @@
     #Числа
     age = 9
 
-    #Логические
+    #Логические True - Правда или False - Ложь
     have_car = False
+    have_computer = True
 
     #Списки
     best_games = ['csgo', 'brawl stars', 'minecraft']
@@ -94,12 +95,14 @@
 
     #Кортежи
     family = ('brother', 'mother', 'father')
+    family[1] # выведет mother
 
     #Словари
     english_russian = {
         'apple': 'Яблоко',
         'car': 'Машина'
     }
+    english_russian['apple'] # выведет Яблоко
 ```
 
 ### Операторы
